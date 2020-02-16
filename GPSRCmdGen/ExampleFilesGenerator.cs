@@ -94,7 +94,7 @@ namespace RoboCup.AtHome.GPSRCmdGen
 			string authoring = Resources.GrammarHeader;
 
 			Dictionary<string, string> grammars = new Dictionary<string, string> ();
-			grammars.Add("category1", Resources.GPSRGrammar);
+			grammars.Add("category1", Resources.GPSRGrammarCat1);
 			grammars.Add("common", Resources.CommonRules);
 
 			foreach (KeyValuePair<string, string> g in grammars) {

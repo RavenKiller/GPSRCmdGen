@@ -50,7 +50,7 @@ namespace RoboCup.AtHome.GPSRCmdGen
 
 		private Task GetTask()
 		{
-			return gen.GenerateTask(DifficultyDegree.High);
+			return gen.GenerateTask(DifficultyDegree.Easy);
 		}
 
 		/// <summary>

@@ -54,6 +54,7 @@
     <Content Include="Resources\Category2Grammar.txt" />
     <Content Include="Resources\Category3Grammar.txt" />
     <Content Include="Resources\FormatSpecification.txt" />
+    <None Include="Resources\GPSRGrammarCat1.txt" />
     <Content Include="Resources\GrammarHeader.txt" />
     <Content Include="Resources\Category1Grammar.txt" />
   </ItemGroup>
